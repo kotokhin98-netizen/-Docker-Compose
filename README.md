@@ -7,3 +7,4 @@
 ## [postgres-docker-project](/postgres-docker-project/)
 ## [postgres-pgadmin-app](/postgres-pgadmin-app/)
 ## [wordpress](/wordpress/)
+## [DBeaver](/DBeaver/)
